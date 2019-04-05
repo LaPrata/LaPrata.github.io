@@ -175,6 +175,10 @@ header.masthead {
   height: 870px;
 }
 
+.imageTeam{
+  border-radius: 100%;
+}
+
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
